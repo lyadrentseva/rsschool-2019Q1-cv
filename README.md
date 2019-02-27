@@ -1,2 +1,1 @@
-# rsschool-2019Q1-cv
-rsschool-2019Q1-cv
+https://github.com/lyadrentseva/rsschool-2019Q1-cv/cv
